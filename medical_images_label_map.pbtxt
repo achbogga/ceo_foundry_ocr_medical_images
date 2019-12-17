@@ -1,0 +1,94 @@
+item {
+  id: 1
+  name: 'REFNO'
+}
+
+item {
+  id: 2
+  name: 'INVOICENO'
+}
+
+item {
+  id: 3
+  name: 'COURIER NAME'
+}
+
+item {
+  id: 4
+  name: 'CON NO'
+}
+
+item {
+  id: 5
+  name: 'DISPATCH DATE'
+}
+
+item {
+  id: 6
+  name: 'DISPATCH BY'
+}
+
+item {
+  id: 7
+  name: 'SALES DATE'
+}
+
+item {
+  id: 8
+  name: 'SALES TIME'
+}
+
+item {
+  id: 9
+  name: 'CUSTOMER NAME'
+}
+
+item {
+  id: 10
+  name: 'EMAIL ADDRESS'
+}
+
+item {
+  id: 11
+  name: 'AGENT NAME'
+}
+
+item {
+  id: 12
+  name: 'ADDRESS'
+}
+
+item {
+  id: 13
+  name: 'CITY'
+}
+
+item {
+  id: 14
+  name: 'STATE'
+}
+
+item {
+  id: 15
+  name: 'ZIP'
+}
+
+item {
+  id: 16
+  name: 'CUSTOMER PH NO'
+}
+
+item {
+  id: 17
+  name: 'CREDIT CARD TYPE'
+}
+
+item {
+  id: 18
+  name: 'CREDIT CARD NO'
+}
+
+item {
+  id: 19
+  name: 'PRODUCTS'
+}
